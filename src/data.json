@@ -1,0 +1,32 @@
+[
+  {
+    "id": 1,
+    "task": "Sing Music",
+    "completed": false
+  },
+  {
+    "id": 2,
+    "task": "Study React",
+    "completed": false
+  },
+  {
+    "id": 3,
+    "task": "Practice my JavaScript Skills",
+    "completed": true
+  },
+  {
+    "id": 4,
+    "task": "Search for a Job on Linkedin",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "task": "Create pages with Bootstrap",
+    "completed": false
+  },
+  {
+    "id": 4,
+    "task": "Travel around Mexico",
+    "completed": false
+  }
+]
