@@ -2,12 +2,12 @@
   margin: auto;
   width: 50%;
   border: 1px solid #219dad;
-  background-color: #743270;
+  background-color: #bed732;
   padding: 10px;
 }
 
 .add-btn {
   float: right;
-  background-color: rgb(255, 0, 242);
+  background-color: rgb(255, 13, 0);
   color: #ffffff;
 }
